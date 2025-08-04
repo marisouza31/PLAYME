@@ -31,7 +31,7 @@ Criar wireframes para mobile e web com foco em:
 - Tela de playlist.
 
 📸 **Wireframes Mobile:**  
-[🔗 Link para visualizar as telas mobile no Figma ou Imagens](https://www.canva.com/design/DAGu8iytd3o/FjxTs9cXkWaGuhIbz1f8Ag/edit?utm_content=DAGu8iytd3o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[🔗 Link para visualizar as telas](https://www.canva.com/design/DAGu8iytd3o/FjxTs9cXkWaGuhIbz1f8Ag/edit?utm_content=DAGu8iytd3o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
@@ -47,7 +47,7 @@ Criar wireframes para mobile e web com foco em:
 - Página de playlist. 
 
 📸 **Wireframes Web:**  
-[🔗 Link para visualizar as telas web no Figma ou Imagens](https://www.canva.com/design/DAGuqi3VtRw/9tbOmgQS7qtN4A0maRGV2w/edit?utm_content=DAGuqi3VtRw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[🔗 Link para visualizar as telas](https://www.canva.com/design/DAGuqi3VtRw/9tbOmgQS7qtN4A0maRGV2w/edit?utm_content=DAGuqi3VtRw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## ✨ Visual do Projeto:
 
