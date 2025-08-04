@@ -52,6 +52,6 @@ Criar wireframes para mobile e web com foco em:
 ## ✨ Visual do Projeto
 
 <p align="center">
-  <img src="LINK-DA-SUA-IMAGEM-AQUI" alt="Preview do PLAYME" width="600"/>
+  <img src="VisualProjeto.png" alt="Preview do PLAYME" width="600"/>
 </p>
 
