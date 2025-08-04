@@ -7,7 +7,7 @@ e músicas que eu gosto de ouvir.
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Criar wireframes para mobile e web com foco em:
 
@@ -17,7 +17,7 @@ Criar wireframes para mobile e web com foco em:
 
 ---
 
-## 🖼️ Wireframes:
+## Wireframes:
 
 ### 📱 Versão Mobile
 
@@ -49,9 +49,10 @@ Criar wireframes para mobile e web com foco em:
 📸 **Wireframes Web:**  
 [🔗 Link para visualizar as telas web no Figma ou Imagens](https://www.canva.com/design/DAGuqi3VtRw/9tbOmgQS7qtN4A0maRGV2w/edit?utm_content=DAGuqi3VtRw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-## ✨ Visual do Projeto
+## ✨ Visual do Projeto:
 
 <p align="center">
-  <img src="VisualProjeto.png" alt="Preview do PLAYME" width="600"/>
+  <img src="VisualProjeto.png" alt="Preview do PLAYME" width="600"/><br>
+   Fonte: Mariana Ocireu.
 </p>
 
